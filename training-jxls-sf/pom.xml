@@ -16,12 +16,6 @@
 	</properties>
 
 	<dependencies>
-
-		<dependency>
-			<groupId>net.sf.jxls</groupId>
-			<artifactId>jxls-reader</artifactId>
-			<version>1.0.6</version>
-		</dependency>
 		<dependency>
 			<groupId>net.sf.jxls</groupId>
 			<artifactId>jxls-core</artifactId>
